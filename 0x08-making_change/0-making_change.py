@@ -5,7 +5,7 @@
 
 def makeChange(coins, total):
     """
-    Return the minimum number of coins needed to meet a total
+    Return the minimum number of coins
     Args:
         coins : a list of coins of different values
         total : total value to be met
